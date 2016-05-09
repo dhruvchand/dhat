@@ -45,9 +45,6 @@ title{
     
 }
 
-#photo{
-width:300px;
-}
 .input-group{
     padding-top:10px;
 }
